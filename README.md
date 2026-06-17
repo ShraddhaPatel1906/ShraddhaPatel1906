@@ -21,30 +21,54 @@
 
 ## 🚀 Tech Arsenal
 
-### 💻 Programming & Development
+### 💻 Languages & Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
 </p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-### ⚡ Generative AI Stack
-
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-pink?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-grey?style=for-the-badge)
-![GenerativeAI](https://img.shields.io/badge/GenerativeAI-purple?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge)
-![PromptEngineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge)
 
 ---
 
+### 🤖 AI / Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+---
+
+### ⚡ Generative AI & LLM Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-5D5D5D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF7F24?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ☁️ Deployment & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Groq-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+---
 ## 🧠 Currently Learning
 
 | 🚀 Domain | ✨ Topics |
