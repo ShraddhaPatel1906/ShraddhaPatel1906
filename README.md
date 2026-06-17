@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shraddha Patel</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=900&height=80&lines=👋+Hi%2C+I'm+Shraddha+Patel;🎓+M.Sc.+Data+Science+%40+IIIT+Lucknow;🤖+Aspiring+AI+%26+Machine+Learning+Engineer;🚀+Building+RAG+%26+LLM+Applications;💡+Exploring+Generative+AI+and+NLP" />
+</h1>
+
+<h3 align="center">
+✨ Turning Data into Intelligence ✨
+</h3>
 
 <h3 align="center">
 🎓 M.Sc. Data Science Student at IIIT Lucknow <br>
@@ -125,12 +131,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/ShraddhaPatel1906/ShraddhaPatel1906/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎓 Education
 
 🏛️ **Master of Science (M.Sc.) in Data Science**  
@@ -149,6 +149,36 @@ Indian Institute of Information Technology, Lucknow (IIIT Lucknow)
 💡 Passionate about building intelligent systems using Machine Learning, Deep Learning, NLP, RAG, LangChain and Large Language Models.
 
 ---
+
+## 📈 Contribution Activity
+
+[![Shraddha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShraddhaPatel1906&theme=tokyo-night)](https://github.com/ShraddhaPatel1906)
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShraddhaPatel1906&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShraddhaPatel1906&theme=tokyonight"/>
+
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddhaPatel1906&layout=compact&theme=tokyonight"/>
+
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShraddhaPatel1906&theme=tokyonight&row=1&column=7"/>
+
+</p>
 
 ## 🌐 Connect With Me
 
