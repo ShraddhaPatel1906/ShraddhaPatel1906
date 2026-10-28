@@ -25,7 +25,7 @@
 - 🎓 Pursuing **M.Sc. in Data Science** at **IIIT Lucknow**
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, Deep Learning & NLP**
 - 🌱 Currently exploring **Generative AI, LangChain, RAG & LLM Applications**
-- 💡 Love building real-world AI projects and solving practical problems
+- 💡 Love building real-world AI projects and solving practical problem
 - 🚀 Working on end-to-end AI applications with deployment
 - 📚 Always learning and improving my technical skills
 
